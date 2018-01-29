@@ -1,0 +1,2 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"access_sms_gateway_websms","access_sms_gateway_websms","model_sms_gateway_websms",,1,0,0,0
